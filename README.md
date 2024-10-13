@@ -23,7 +23,6 @@ This project is organized as follows:
 
 ```bash
 ├── data                    # Data folder (dataset not included)
-├── notebooks                # Jupyter notebooks for exploration and analysis
 ├── src                      # Source code for the project
 │   ├── data                 # Data loading and preprocessing scripts
 │   │   ├── data_cleaning.py
